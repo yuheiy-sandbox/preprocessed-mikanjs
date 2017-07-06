@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "html": "node render.js"
+  },
+  "devDependencies": {
+    "mikanjs": "^1.0.10",
+    "pug": "^2.0.0-rc.2"
+  }
+}
